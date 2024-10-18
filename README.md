@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
-<h3 align="center">A passionate frontend Developer</h3>
+<p>I'm a passionate Web Developer with expertise in crafting responsive and dynamic web applications. I specialize in building seamless user experiences using modern web technologies.</p>
 
 
 - 🌱 I’m currently learning **Full Stack Development**
