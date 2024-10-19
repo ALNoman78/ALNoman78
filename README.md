@@ -27,7 +27,7 @@
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png" alt="html5" width="120" height="120" style="object-fit: cover;" /></a></td>
     <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png" alt="css3" width="120" height="120" style="object-fit: cover;" /></a></td>
@@ -42,7 +42,6 @@
     <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://alnoman78.github.io/moule-portfolio/asstes/daisyUi.png" width="120" height="120" alt="daisyui" style="object-fit: cover;" /></a></td>
     <td><img src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png" width="120" height="120" style="object-fit: cover;" /></td>
     <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="120" height="120" style="object-fit: cover;" /></a></td>
-    <td></td>
   </tr>
 </table>
 
