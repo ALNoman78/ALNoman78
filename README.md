@@ -10,12 +10,12 @@
 </p>
 <!--language tools-->
 <hr/>
-<!--github contributation
+<!-- github contributation 
 <div align="">
     <img src="https://streak-stats.demolab.com?user=ALNoman78&theme=tokyonight" alt="GitHub Streak" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alnoman78&show_icons=true&locale=en" alt="alnoman78" />
-</div>
--->
+</div>-->
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ALNoman78&theme=tokyonight" alt="GitHub Streak" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=alnoman78&show_icons=true&locale=en" alt="alnoman78" height="150"  />
